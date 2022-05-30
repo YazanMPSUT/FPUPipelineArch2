@@ -1,0 +1,5 @@
+      0clock = 0
+                   5clock = 1
+                  10clock = 0
+                  15clock = 1
+                  20clock = 0

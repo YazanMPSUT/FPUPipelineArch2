@@ -1,0 +1,2 @@
+Value in RL =         31
+Value in RR =         16

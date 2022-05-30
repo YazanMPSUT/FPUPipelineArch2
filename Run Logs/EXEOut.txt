@@ -1,0 +1,32 @@
+A= 00111111000000000000000000000000
+B= 00111110100000000000000000000000
+Addition Flag is 1
+Subtraction Flag  is 0
+Multiplication Flag  is 0
+Division Flag  is 0
+output=00111111010000000000000000000000
+
+Addition Flag is 0
+Subtraction Flag  is 1
+Multiplication Flag  is 0
+Division Flag  is 0
+output=00111110100000000000000000000000
+
+output=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Addition Flag is 0
+Subtraction Flag  is 0
+Multiplication Flag  is 1
+Division Flag  is 0
+output=00111110000000000000000000000000
+
+output=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Addition Flag is 0
+Subtraction Flag  is 0
+Multiplication Flag  is 0
+Division Flag  is 1
+output=01000001100010000000101101011000
+
+Finding VCD file...
+./dump.vcd

@@ -1,0 +1,7 @@
+RL Data is 10101111101010110000000000000000
+RR Data is 00000000000000001010111110101011
+RD Address is 01010
+Addition Flag is 1
+Subtraction Flag  is 0
+Multiplication Flag  is 0
+Division Flag  is 0
